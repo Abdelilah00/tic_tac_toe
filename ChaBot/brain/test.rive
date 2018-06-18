@@ -1,0 +1,14 @@
++ (salut|salam|slt|cv|slm)
+- Bonjours, je suis DR.Bot, je peux vous aider ?
+
++ [*] Ramedist
+- Ordonancier
+
++ [oui] [bien sur]
+- Voulais vous des information general ou sur les papiers?
+
++ [*] (papiers|papier) [*]
+- Vous etes Ramedist ou autre?
+
++ [*] Autre
+- Ordonancier
